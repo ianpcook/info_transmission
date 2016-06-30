@@ -1,0 +1,2 @@
+# README #
+This is the code repository for an ongoing academic project. The code in this repository is NOT meant for distribution as a production project. Until the completion of the academic work, this code remains in (very) unstable condition and structure. 
